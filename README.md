@@ -1,1 +1,2 @@
-# Memory-card
+memory card up 
+приложение использует пайкутэ файв 
